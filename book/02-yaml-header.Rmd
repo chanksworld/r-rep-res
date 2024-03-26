@@ -4,7 +4,7 @@ YAML header is a short blob of text, specially formatted with `key: value` pairs
 
 ## Introduction
 
-Let's begging by adding some personality to our document via YAML configuration. For now we are going to be embedding YAML header into our document right at the top. The header needs to be enclosed in triple dashes on either side as following
+Let's begin by adding some personality to our document via YAML configuration. For now we are going to be embedding YAML header into our document right at the top. The header needs to be enclosed in triple dashes on either side as following
 
 ```yaml
 ---
